@@ -45,20 +45,51 @@
 
 ---
 
-## 📊 Data Science (Currently Working On)
+## 📊 Data Science | What I'm Working On
 
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Feature Engineering & Feature Selection  
-- Machine Learning for:
-  - Predictive Maintenance  
-  - Failure Prediction  
-  - Anomaly Detection  
-- Model Evaluation & Optimization  
-- Working with real-world **industrial datasets**
+### 🔍 Data Preparation
+- Data Cleaning (missing values, duplicates, outliers)
+- Data Transformation & Scaling
+- Handling real-world noisy industrial data
 
-**Libraries & Tools:**  
-`Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • SQL`
+### 📈 Exploratory Data Analysis (EDA)
+- Statistical analysis & pattern discovery
+- Data visualization to understand trends & correlations
+- Identifying failure patterns in maintenance data
+
+### 🧠 Feature Engineering
+- Feature extraction from raw sensor & machine data
+- Feature selection for better model performance
+- Domain-driven features for industrial systems
+
+### 🤖 Machine Learning Applications
+- Predictive Maintenance
+  Failure Prediction
+- Anomaly Detection
+- Regression & Classification models
+
+### 📉 Model Evaluation & Optimization
+- Train / Validation / Test pipelines
+- Performance metrics & error analysis
+- Model tuning & optimization
+
+### 🏭 Domain Focus
+- Industrial Automation
+- Maintenance & Reliability Systems
+- AI-driven decision making in industry
+
+---
+
+### 🛠 Tools & Libraries
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-07405E?style=flat"/>
+</p>
+
 
 ---
 
